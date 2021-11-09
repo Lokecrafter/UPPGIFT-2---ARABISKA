@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\UPPGIFT-2---ARABISKA.exe
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\UPPGIFT-2---ARABISKA.deps.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\UPPGIFT-2---ARABISKA.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\UPPGIFT-2---ARABISKA.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\UPPGIFT-2---ARABISKA.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\ref\UPPGIFT-2---ARABISKA.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\bin\Debug\net5.0\UPPGIFT-2---ARABISKA.pdb
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\ref\UPPGIFT-2---ARABISKA.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.pdb
+C:\Users\Admin\Documents\GitHub\UPPGIFT-2---ARABISKA\obj\Debug\net5.0\UPPGIFT-2---ARABISKA.genruntimeconfig.cache
